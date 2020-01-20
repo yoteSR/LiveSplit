@@ -7317,4 +7317,14 @@
     <Type>Script</Type>
     <Description>Auto-splitting on level change is available (by ShikenNuggets)</Description>
   </AutoSplitter>
+<AutoSplitter>
+    <Games>
+      <Game>Lightmatter</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/yoteSR/Lightmatter-Autosplitter-by-LaicosVK/master/splitter.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description></Description>
+</AutoSplitter>
 </AutoSplitters>
